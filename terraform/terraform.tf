@@ -32,7 +32,7 @@ terraform {
     region = "ap-south-1"
   }
 
-  required_version = "~> 1.9.2"
+  required_version = "~> 1.6.3"
 }
 ##
 ##
